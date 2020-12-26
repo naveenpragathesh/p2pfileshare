@@ -27,7 +27,6 @@ ip and port which is having the entered filename
 Select download command and enter filename to download. Enter the ip and port details obtained from above
 search results. This will connects to the download api and a socket will be created from the server to the client
 and the file will be transferred to the client and saved locally
-ip and port which is having the entered filename
 ![alt text](https://github.com/naveenpragathesh/p2pfileshare/blob/master/readme_images/download_progress.PNG)
 
 ## Exit functionality
